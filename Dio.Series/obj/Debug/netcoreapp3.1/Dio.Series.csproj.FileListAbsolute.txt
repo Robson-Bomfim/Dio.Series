@@ -1,0 +1,14 @@
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\robso\Desktop\LocalizaLabs .NET Developer #2\Criando um APP simples de cadastro de séries em .NET\Projeto\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
